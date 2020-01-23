@@ -1,4 +1,4 @@
-Program for testing shortest path algorithms that work in 3D space.
+<h1>Program for testing shortest path algorithms in 3D space.</h1>
 
 Last project for CS bachelor degree.
 
