@@ -1,1 +1,5 @@
-Shortest-path-in-3D-space
+Program for testing shortest path algorithms that work in 3D space.
+
+Last project for CS bachelor degree.
+
+Program written in c++14, using QT 5.12.4 as main graphical interface tool and OpenGL 3.3+ for a representation of a 3D space.
